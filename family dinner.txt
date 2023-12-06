@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+    <div class="title">
+	<br>
+        Family Dinner
+	<br>
+	<br>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movable Image</title>
+  <link rel="stylesheet" href="stylesheet.css">
+<body>
+  <img class="movable-image" src="/Users/kyanilges/Desktop/ekphrasis/content/images/guest list.png" alt="Movable Image 1">
+
+<img class="movable-image" src="/Users/kyanilges/Desktop/ekphrasis/content/images/vecteezy_realistic-porcelain-plate-clipart-design-illustration_9397856_265.png" alt="Movable Image 2">
+
+<img class="movable-image" src="/Users/kyanilges/Desktop/ekphrasis/content/images/vecteezy_retro-and-vintage-line-patterns_9420788_411.png" alt="Movable Image 3">
+
+<img class="movable-image" src="/Users/kyanilges/Desktop/ekphrasis/content/images/image-from-rawpixel-id-2255707-original.png" alt="Movable Image 4">
+  <script src="script.js"></script>
+    </div>
+</head>
+<body>
+    <div class="poem">
+        I hate the holidays<br>
+        <br>
+	It's not that I hate the meaning of them<br>
+        I hate the family aspect of them.<br>
+        <br>
+	When the leaves start to fall,<br>
+	I know to start preparing myself<br>
+	For the infamous dinners.<br>
+	<br>
+	I always dread coming home<br>
+	Just to deal with my "eccentric" family<br>
+	Even though I love them, they're a lot<br>
+	<br>
+	Ever since I was a kid<br>
+	We always had big holidays<br>
+	At grandma's house<br>
+	<br>
+	Mom says grandpa died<br>
+	When I was really little<br>
+	So it's always been her<br>
+	<br>
+	The first holiday without him,<br>
+	She started putting decor<br>
+	On the table<br>
+	<br>
+	She started with a pumpkin<br>
+	He made her a ceramic one<br>
+	Just before he died<br>
+	<br>
+	He wanted to use it<br>
+	As a cookie jar<br>
+	Even made the top a lid<br>
+	<br>
+	Grandma had other plans<br>
+	She filled it with streamers<br>
+	And a picture of Grandpa<br>
+	<br>
+	She said that it's so he can always<br>
+	Celebrate with us<br>
+	Even in death<br>
+	<br>
+	I think she's just sad and lonely still<br>
+	<br>
+	One year, my idiot brother<br>
+	Almost broke the damn thing<br>
+	I thought he was a goner.<br>
+	<br>
+	In his defense,<br>
+	He's just an idiot<br>
+	Encouraged by other idiots<br>
+	<br>
+	I don't know what I hate more:<br>
+	Being an only girl of three brothers<br>
+	Or being the eldest child.<br>
+	<br>
+	Every year they try to be dumber,<br>
+	Our entertainment this year is<br>
+	One of them having a black eye<br>
+	<br>
+	I think it was a fake one<br>
+	My mother thought otherwise<br>
+	One can assume what came next.<br>
+	<br>
+	She never knows how<br>
+	To take a breath and pause<br>
+	High alert 24/7<br>
+	<br>
+	I wish she would pause<br>
+	And calm down for once<br>
+	It's not healthy<br>
+	<br>
+	I think that's just<br>
+	What you become<br>
+	When you become a mother<br>
+	<br>
+	I don't want to say<br>
+	"I hate my family"<br>
+	When I really don't<br>
+	<br>
+	I hate how they act<br>
+	Around the holidays<br>
+	All together<br>
+	<br>
+	So I guess<br>
+	Someone could say<br>
+	<br>
+	I hate the holidays.<br>
+    </div>
+    <div class="image">
+        <img src="/Users/kyanilges/Desktop/ekphrasis/content/images/sparkyspainting.jpeg" alt="Painting from Sparky's" width="300">
+    </div>
+</body>
+</html>
+
